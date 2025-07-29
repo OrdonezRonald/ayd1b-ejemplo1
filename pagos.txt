@@ -1,1 +1,3 @@
 Los pagos con paypal fueron agregados al modulo de pagos para viajes a Rusia.
+
+las tarjetas de credito y debito visa del banco promerica ya se aceptan.
